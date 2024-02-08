@@ -1,1 +1,1 @@
-ECHO is on.
+"This is a readme file" 
